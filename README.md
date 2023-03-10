@@ -1,6 +1,6 @@
 # login_signup
 
-A new Flutter project.
+Simple login and sign up with flutter.
 
 ## Getting Started
 
